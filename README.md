@@ -48,3 +48,7 @@ python main.py
 
 ## Limitations
 * Currently limited to analyzing 50 most recent videos per channel
+
+## License
+This project is licensed under the **GNU General Public License**.  
+See [LICENSE](LICENSE) for the full text.
