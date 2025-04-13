@@ -1,5 +1,5 @@
-# YouTube Channel Analyzer
-
+# [DEPRECATED] YouTube Channel Analyzer
+[NEW VERSION](https://github.com/krasimir-zhelezov/youtube-channel-analyzer)
 A Python tool that fetches and analyzes video data from YouTube channels using the [YouTube Data API v3](https://developers.google.com/youtube/). Currently supports analysis of up to 50 videos per channel.
 
 ## Features
